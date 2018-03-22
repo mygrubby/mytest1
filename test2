@@ -8,5 +8,9 @@ pull test
 conflict
 localtest
 remote pull
+local push
 remote pull2
 remote pull3
+
+
+
