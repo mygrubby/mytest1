@@ -7,3 +7,4 @@ github
 pull test
 conflict
 localtest
+remote pull
