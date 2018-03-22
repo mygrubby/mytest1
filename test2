@@ -8,3 +8,4 @@ pull test
 conflict
 localtest
 remote pull
+remote pull2
